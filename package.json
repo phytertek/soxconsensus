@@ -1,0 +1,31 @@
+{
+  "name": "soxconsensus",
+  "version": "0.0.1",
+  "description": "A headless consensus network node based on express and websockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phytertek/soxconsensus.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express.js",
+    "Websockets",
+    "Blockchain",
+    "Consensus",
+    "Network",
+    "Javascript"
+  ],
+  "author": "Phytertek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phytertek/soxconsensus/issues"
+  },
+  "homepage": "https://github.com/phytertek/soxconsensus#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
